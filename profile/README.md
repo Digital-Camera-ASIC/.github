@@ -1,4 +1,5 @@
 # Digital Camera ASIC
+Demo Video: [Youtube](https://youtu.be/k6s_WcHvtP4)
 ## 1. Introduction
 We aim to design an ASIC for surveillance digital cameras, which will support edge computing for local image processing to reduce network bandwidth usage and server resources required for image processing.
 
